@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+faiss-cpu
+Pillow
+pymupdf
+sentence-transformers
+opencv-python
+pandas
+pyyaml
