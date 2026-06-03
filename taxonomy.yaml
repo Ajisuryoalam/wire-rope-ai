@@ -1,0 +1,25 @@
+classes:
+  - id: mechanical_wear
+    name: Mechanical wear
+    keywords:
+      - abrasion
+      - diameter reduction
+      - wear surface
+      - bearing surface
+
+  - id: bending_fatigue
+    name: Bending fatigue break
+    keywords:
+      - fatigue crack
+      - bending fatigue
+      - sheave contact
+      - beach marks
+      - striations
+
+  - id: tensile_overload
+    name: Tensile overload break
+    keywords:
+      - cup and cone
+      - necking
+      - ductile dimple
+      - overload
